@@ -1,0 +1,7 @@
+name: RNAseq-R-4-0
+channels:
+    - bioconda
+    - defaults
+    - r
+dependencies:
+    - R>=4.0
